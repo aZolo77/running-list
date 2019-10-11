@@ -1,0 +1,21 @@
+@import '../../assets/styles/utils/vars.scss';
+
+.DaysWrapper {
+  display: flex;
+  justify-content: space-between;
+  background-color: $neutral-placeholder;
+}
+
+.TodosWrapper {
+  background-color: #555555;
+  color: #ffffff;
+  padding: 5px 10px;
+}
+
+.MarksWrapper {
+  margin-top: 15px;
+}
+
+.NotesWrapper {
+  margin-top: 15px;
+}

@@ -1,0 +1,21 @@
+.Default {
+  margin-bottom: 5px;
+  padding: 8px 10px;
+  cursor: pointer;
+}
+
+.LightLine {
+  background-color: whitesmoke;
+}
+
+.LightLine:hover {
+  background-color: rgb(230, 230, 230);
+}
+
+.DarkLine {
+  background-color: lightcyan;
+}
+
+.DarkLine:hover {
+  background-color: rgb(200, 250, 250);
+}
